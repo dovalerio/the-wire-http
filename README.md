@@ -1,5 +1,10 @@
 # The Wire HTTP
 
+![CI](https://github.com/dovalerio/the-wire-http/actions/workflows/ci.yml/badge.svg)
+![Coverage](https://img.shields.io/badge/coverage-85%25-brightgreen)
+![Kotlin](https://img.shields.io/badge/Kotlin-2.2.20-purple)
+![Maven Central](https://img.shields.io/badge/Maven%20Central-0.1.0-blue)
+
 A lightweight, middleware-driven HTTP client for Kotlin.
 
 Stop rewriting HTTP configuration in every project.
